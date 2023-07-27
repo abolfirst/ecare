@@ -3,7 +3,7 @@ import time
 timestr = time.strftime("%Y%m%d-%H%M%S")
 import pathlib
 from datetime import datetime
-#from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import streamlit as st
 
 
